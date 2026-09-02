@@ -2,6 +2,8 @@
 
 An interactive insurance analytics dashboard built to automate claims processing and dynamic loss-ratio tracking across a 9,100+ policyholder portfolio.
 
+![Dashboard Preview](SS2.png)
+
 ## Overview
 Weekly claims and portfolio reporting often suffers from manual data entry, broken spreadsheet formulas, and static views. This project implements an automated, self-updating data model to streamline portfolio risk analysis.
 
